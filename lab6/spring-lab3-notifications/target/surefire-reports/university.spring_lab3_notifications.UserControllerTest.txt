@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: university.spring_lab3_notifications.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.905 s -- in university.spring_lab3_notifications.UserControllerTest
